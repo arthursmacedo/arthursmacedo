@@ -10,7 +10,7 @@ I am a Sanitation Technician from the Federal Institute of Science and Technolog
 
 ## Current Projects
 
-- **Integration of Equivalent Sources and Potential Methods for Regional Mapping with Spherical Coordinates**: Working on integrating geophysical methods to enhance regional mapping accuracy using spherical coordinates.
+- **Integration of airborne geophysics datasets with gradient-boosted equivalent sources on the sphere**: Working on integrating geophysical methods to enhance regional mapping accuracy using spherical coordinates.
 
 ## Past Projects
 
